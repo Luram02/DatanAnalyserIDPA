@@ -1,0 +1,171 @@
+Auswertung Staatsangehörigkeit für Datei: 100126_matthaeus.csv
+Gesamtanzahl Einträge mit Staatsangehörigkeit: 7933
+
+Staatsangehoerigkeit	Anzahl
+----------------------------------------
+Afghanistan	69
+Albanien	61
+Algerien	74
+Angola	64
+Argentinien	72
+Armenien	37
+Aserbaidschan	20
+Australien	86
+Bahrain	1
+Bangladesch	49
+Belarus	32
+Belgien	83
+Belize	1
+Benin	5
+Bhutan	2
+Bolivien	70
+Bosnien und Herzegowina	64
+Brasilien	90
+Bulgarien	76
+Burkina Faso	2
+Burundi	1
+Cabo Verde	83
+Chile	86
+China	90
+Costa Rica	25
+Côte d'Ivoire	66
+Deutschland	92
+Dominica	17
+Dominikanische Republik	68
+Dänemark	82
+Ecuador	56
+El Salvador	88
+Eritrea	52
+Estland	20
+Ex-Jugoslawien	64
+Finnland	86
+Frankreich	92
+Gabun	1
+Gambia	27
+Georgien	19
+Ghana	58
+Grenada	9
+Griechenland	92
+Guatemala	38
+Guinea	19
+Guinea-Bissau	25
+Haiti	37
+Honduras	11
+Indien	92
+Indonesien	61
+Irak	58
+Iran	71
+Irland	69
+Island	25
+Israel	83
+Italien	92
+Jamaika	44
+Japan	90
+Jemen	29
+Jordanien	58
+Kambodscha	7
+Kamerun	70
+Kanada	90
+Kasachstan	27
+Katar	2
+Kenia	66
+Kirgisistan	5
+Kiribati	1
+Kolumbien	67
+Kongo (Brazzaville)	36
+Kongo (Kinshasa)	73
+Korea (Nord-)	4
+Korea (Süd-)	72
+Kosovo	34
+Kroatien	66
+Kuba	65
+Lettland	50
+Libanon	69
+Liberia	9
+Libyen	15
+Liechtenstein	92
+Litauen	46
+Luxemburg	64
+Madagaskar	13
+Malaysia	73
+Mali	36
+Malta	18
+Marokko	82
+Mauretanien	4
+Mexiko	76
+Moldau	2
+Moldova	23
+Mongolei	39
+Montenegro	15
+Mosambik	2
+Myanmar	42
+Nepal	27
+Neuseeland	61
+Nicaragua	9
+Niederlande	92
+Niger	5
+Nigeria	59
+Nordmazedonien	64
+Norwegen	75
+Pakistan	75
+Palästina	3
+Panama	3
+Paraguay	8
+Peru	83
+Philippinen	84
+Polen	92
+Portugal	92
+Ruanda	5
+Rumänien	92
+Russland	63
+Sambia	12
+San Marino	8
+Saudi-Arabien	5
+Schweden	89
+Schweiz	92
+Senegal	66
+Serbien	36
+Serbien und Montenegro	12
+Seychellen	1
+Sierra Leone	14
+Simbabwe	49
+Singapur	39
+Slowakei	61
+Slowenien	66
+Somalia	52
+Spanien	92
+Sri Lanka	86
+St. Lucia	1
+Staat unbekannt oder nicht angegeben	69
+Staatenlos	20
+Sudan	28
+Syrien	63
+Südafrika	49
+Südjemen	3
+Tadschikistan	8
+Taiwan	44
+Tansania	13
+Thailand	82
+Tibet	3
+Togo	72
+Trinidad und Tobago	15
+Tschad	5
+Tschechien	62
+Tschechoslowakei	64
+Tunesien	76
+Türkei	92
+Uganda	17
+Ukraine	57
+Ungarn	92
+Union der Sozialistischen Sowjetrepu	29
+Uruguay	26
+Usbekistan	16
+Venezuela	60
+Vereinigte Arabische Emirate	5
+Vereinigte Staaten	92
+Vereinigtes Königreich	92
+Vietnam	92
+Zypern	19
+Ägypten	55
+Äthiopien	59
+Österreich	92

@@ -1,0 +1,2 @@
+2025-12-06 19:19 | Datei=100126.csv | Filterspalte=Wohnviertel-Name | Wert=Matthäus | Personen=724051
+2025-12-06 19:20 | Datei=100126_Wohnviertel-Name_Matthäus1919.csv | Filterspalte=Datum | Wert=31. Dezember 2023 | Personen=15171
